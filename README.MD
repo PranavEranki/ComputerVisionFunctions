@@ -14,7 +14,9 @@ Functions (all include live and with a specified image):
 ## Installation
 
 
-install using `python -m pip install --index-url https://test.pypi.org/simple/ ComputerVisionFunctions`
+install using `python -m pip install --index-url`
+
+`https://test.pypi.org/simple/ ComputerVisionFunctions`
 
 <hr/>
 Example usage:
