@@ -22,4 +22,5 @@ install using `python -m pip install --index-url`
 Example usage:
 
 `import ComputerVisionFunctions`
+
 `adaptiveGaussianThresholding -l`
