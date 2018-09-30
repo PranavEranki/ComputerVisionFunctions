@@ -14,5 +14,7 @@ Functions (all include live and with a specified image):
 <hr/>
 Example usage:
 
-`import ComputerVisionFunctions
-adaptiveGaussianThresholding -l`
+`import ComputerVisionFunctions`
+`adaptiveGaussianThresholding -l`
+
+install using `python -m pip install --index-url https://test.pypi.org/simple/ ComputerVisionFunctions`
