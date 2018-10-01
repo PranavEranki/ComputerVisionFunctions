@@ -20,4 +20,5 @@ Do:
 Example usage:
 
 `import ComputerVisionFunctions`
+
 `adaptiveGaussianThresholding -l`
